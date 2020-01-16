@@ -1,3 +1,3 @@
 # CV of Kunlin
 
-CV[KunlinLiu_CV.pdf]
+[CV](KunlinLiu_CV.pdf)
